@@ -1,4 +1,3 @@
-# test-repository
-This is a new test
+# Vey first repo
 
-This is a new edit from my local computer
+This is now the way I want to leave this readme
